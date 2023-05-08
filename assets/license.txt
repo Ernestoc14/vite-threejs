@@ -1,0 +1,11 @@
+Model Information:
+* title:	MP7
+* source:	https://sketchfab.com/3d-models/mp7-920667a3624342c6be2991ce4c5f0cd6
+* author:	DelthorGames (https://sketchfab.com/DelthorGames)
+
+Model License:
+* license type:	CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions can not be distributed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "MP7" (https://sketchfab.com/3d-models/mp7-920667a3624342c6be2991ce4c5f0cd6) by DelthorGames (https://sketchfab.com/DelthorGames) licensed under CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
