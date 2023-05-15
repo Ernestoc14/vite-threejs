@@ -58,6 +58,10 @@ function init() {
         scene.add(gltf.scene);
         animate();
     });
+    const cubeGeometry = new THREE.BoxGeometry()
+    const cubeMaterial = new THREE.MeshBasicMaterial({color: '#662589'})
+    const cube = new THREE.Mesh(cubeGeometry,cubeMaterial)
+    scene.add(cube)
 }
 
 // rendering the scene
