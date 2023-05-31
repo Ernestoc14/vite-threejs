@@ -4,6 +4,8 @@ import { GLTFLoader } from 'three/examples/jsm/loaders/GLTFLoader.js'
 
 let scene, camera, renderer, light
 
+// We need to add 8 objects to the scene, 2 lights and shaders to it.
+
 function init() {
     // creating the scene
     scene = new THREE.Scene();
